@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+#важно
+1. Заходим в Node.js command prompt
+2. Переходим в папку проекта 
+3. Вводим команды:	
+	1) npm i
+	2) ng serve --open
