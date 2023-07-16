@@ -1,4 +1,3 @@
-
 .header {
   padding: 40px 0;
 }
@@ -53,6 +52,7 @@
 .main-content {
   padding-top: 103px;
   padding-bottom: 199px;
+  overflow: hidden;
 }
 
 .main-content .container {
